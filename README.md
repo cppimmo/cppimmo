@@ -4,7 +4,7 @@ I'm a student and I like learning programming in my free time. <br />
 My favorite topics are graphics programming and game development, <br />
 operating systems, and web development.
 Checkout the rest of my <br /> profile and my public repositories.
-Thanks for stopping by!
+Thanks for stopping by! <br />
 Contact me on discord at: `@Immortality#3974`
 <!--or on twitter at: `@cpp_immo`-->
 <br />
