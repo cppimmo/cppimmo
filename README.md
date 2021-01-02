@@ -5,7 +5,7 @@ My favorite topics are graphics programming and game development.
 Checkout the rest of my profile and my public repositories.
 Thanks for stopping by!
 Contact me on discord at: `@Immortality#3974`
-[![cppimmo's github stats](https://github-readme-stats.vercel.app/api?username=cppimmo)](https://github.com/cppimmo/github-readme-stats)
+[![cppimmo's github stats](https://github-readme-stats.vercel.app/api?username=cppimmo&theme=dark&show_icons=true)](https://github.com/cppimmo/github-readme-stats)
 <!--
 **cppimmo/cppimmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
