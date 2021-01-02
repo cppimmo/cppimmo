@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello! 👋
+My name is Brian.
+I'm a student and I like learning programming in my free time.
+My favorite topics are graphics programming and game development.
 <!--
 **cppimmo/cppimmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
