@@ -2,6 +2,8 @@
 My name is Brian.
 I'm a student and I like learning programming in my free time.
 My favorite topics are graphics programming and game development.
+Checkout the rest of my profile and my public repositories.
+Thanks for stopping by!
 <!--
 **cppimmo/cppimmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
