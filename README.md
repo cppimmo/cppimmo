@@ -6,7 +6,7 @@ Checkout the rest of my profile and my public repositories.
 Thanks for stopping by!
 Contact me on discord at: `@Immortality#3974`
 [![cppimmo's github stats](https://github-readme-stats.vercel.app/api?username=cppimmo&theme=dark&show_icons=true&count_private=true)](https://github.com/cppimmo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cppimmo&layout=compact)](https://github.com/cppimmo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cppimmo&layout=compact&theme=dark)](https://github.com/cppimmo/github-readme-stats)
 <!--
 **cppimmo/cppimmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
