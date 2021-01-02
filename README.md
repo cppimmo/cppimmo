@@ -5,8 +5,15 @@ My favorite topics are graphics programming and game development.
 Checkout the rest of my profile and my public repositories.
 Thanks for stopping by!
 Contact me on discord at: `@Immortality#3974`
-[![cppimmo's github stats](https://github-readme-stats.vercel.app/api?username=cppimmo&theme=dark&show_icons=true&count_private=true)](https://github.com/cppimmo/github-readme-stats)
+<a href="https://github.com/cppimmo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cppimmo&theme=dark&show_icons=true&count_private=true"/>
+</a>
+<a href="https://github.com/cppimmo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cppimmo&layout=compact&theme=dark"/>
+</a>
+<!--[![cppimmo's github stats](https://github-readme-stats.vercel.app/api?username=cppimmo&theme=dark&show_icons=true&count_private=true)](https://github.com/cppimmo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cppimmo&layout=compact&theme=dark)](https://github.com/cppimmo/github-readme-stats)
+-->
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
