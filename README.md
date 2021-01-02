@@ -1,10 +1,12 @@
 ### Hello! 👋
 My name is Brian.
 I'm a student and I like learning programming in my free time. <br />
-My favorite topics are graphics programming and game development.
+My favorite topics are graphics programming and game development, <br />
+operating systems, and web development.
 Checkout the rest of my <br /> profile and my public repositories.
 Thanks for stopping by!
 Contact me on discord at: `@Immortality#3974`
+<!--or on twitter at: `@cpp_immo`-->
 <br />
 <a href="https://github.com/cppimmo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cppimmo&theme=dark&show_icons=true&count_private=true"/>
