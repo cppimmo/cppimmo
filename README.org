@@ -1,5 +1,6 @@
 Hello, please checkout my website if you wish to learn more about me!
-<!--### Hello! 👋
+#+BEGIN_COMMENT
+### Hello! 👋
 My name is Brian.
 I'm a student and I like learning programming in my free time. <br />
 My favorite topics are graphics programming and game development, <br />
@@ -32,4 +33,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- -->
+#+END_COMMENT
